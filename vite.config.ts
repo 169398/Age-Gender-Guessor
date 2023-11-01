@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: "/age-gender-predictor/",
   build: {
-    outDir: "dist",
+    outDir: "build",
   },
 });

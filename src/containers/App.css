@@ -9,6 +9,7 @@ input::-webkit-inner-spin-button {
 
 .top-container {
   display: flex;
+
   flex-direction: row;
   height: 100vh;
   min-height: 600px;
@@ -22,7 +23,7 @@ input::-webkit-inner-spin-button {
   height: 100vh;
   min-height: 600px;
   justify-content: center;
-  padding: 3rem;
+  padding: 2.9rem;
 }
 
 .header-title {
